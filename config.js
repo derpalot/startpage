@@ -143,7 +143,7 @@ const CONFIG = {
 					link: 'https://www.netflix.com',
 				},
 				{
-					name: 'Messenger',
+					name: 'Facebook`',
 					link: 'https://www.facebook.com',
 				},
 				{
@@ -154,6 +154,10 @@ const CONFIG = {
 					name: 'MonkeyType',
 					link: 'https://www.monkeytype.com',
 				},
+                {
+                    name: 'NYT',
+                    link: 'https://www.nytimes.com/crosswords'
+                },
 			],
 		},
 		//{
