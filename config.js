@@ -151,7 +151,7 @@ const CONFIG = {
 					link: 'https://www.linkedin.com',
 				},
 				{
-					name: 'Monkeytype',
+					name: 'MonkeyType',
 					link: 'https://www.monkeytype.com',
 				},
 			],
