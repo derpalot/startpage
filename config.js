@@ -81,6 +81,12 @@ const CONFIG = {
 			icon: 'youtube',
 			link: 'https://youtube.com/',
 		},
+		{
+			id: '6',
+			name: 'OzBargain',
+			icon: 'shopping-basket',
+			link: 'https://ozbargain.com.au/',
+		},
 	],
 
 	secondButtonsContainer: [
