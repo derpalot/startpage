@@ -154,10 +154,6 @@ const CONFIG = {
 					name: 'MonkeyType',
 					link: 'https://www.monkeytype.com',
 				},
-                {
-                    name: 'NYT',
-                    link: 'https://www.nytimes.com/crosswords'
-                },
 			],
 		},
 		//{
