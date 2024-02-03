@@ -17,13 +17,13 @@
   --icon: 3vh; /* Icon Size */
 
   /* Fonts Color */
-  --fg: #d88c7f ; /* Foreground color */
+  --fg: #dbbc7f ; /* Foreground color */
   --sfg: #494949; /* Sceondary Foreground color */
 
   /* Light Colors  */
   --accent: #a7c080 ; /* Hover color */
   --background: #272e33; /* Background color */
-  --cards: #e4e6e6; /* Cards color */
+  --cards: #1e2326 ; /* Cards color */
 
   /* Image background  */
   /*--imgbg: url(assets/background.jpg); Image URL */
@@ -130,7 +130,7 @@ body {
 .weatherBlock {
   grid-column: 3 / span 2;
   grid-row: 1 / span 2;
-  display: flex;
+  display: none;
   flex-direction: column;
   align-items: center;
   justify-content: center;
@@ -144,7 +144,7 @@ body {
 }
 
 .weather {
-  display: flex;
+  display: none;
   align-items: center;
   justify-content: center;
 }
