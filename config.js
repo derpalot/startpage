@@ -72,7 +72,7 @@ const CONFIG = {
 		{
 			id: '4',
 			name: 'Reddit',
-			icon: 'glasses',
+			icon: 'message-square-code',
 			link: 'https://reddit.com',
 		},
 		{
@@ -135,49 +135,49 @@ const CONFIG = {
 	// First Links Container
 	firstlistsContainer: [
 		{
-			icon: 'music',
+			icon: 'coffee',
 			id: '1',
 			links: [
 				{
-					name: 'Inspirational',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Netflix',
+					link: 'https://www.netflix.com',
 				},
 				{
-					name: 'Classic',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Messenger',
+					link: 'https://www.facebook.com',
 				},
-				{
-					name: 'Oldies',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
-				},
-				{
-					name: 'Rock',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
-				},
-			],
-		},
-		{
-			icon: 'coffee',
-			id: '2',
-			links: [
 				{
 					name: 'Linkedin',
 					link: 'https://www.linkedin.com',
 				},
 				{
-					name: 'Dribbble',
-					link: 'https://www.dribbble.com',
-				},
-				{
-					name: 'Trello',
-					link: 'https://www.trello.com',
-				},
-				{
-					name: 'Slack',
-					link: 'https://www.slack.com',
+					name: 'Monkeytype',
+					link: 'https://www.monkeytype.com',
 				},
 			],
 		},
+		//{
+		//	icon: 'glasses',
+		//	id: '2',
+		//	links: [
+		//		{
+		//			name: 'Linkedin',
+		//			link: 'https://www.linkedin.com',
+		//		},
+		//		{
+		//			name: 'Dribbble',
+		//			link: 'https://www.dribbble.com',
+		//		},
+		//		{
+		//			name: 'Trello',
+		//			link: 'https://www.trello.com',
+		//		},
+		//		{
+		//			name: 'Slack',
+		//			link: 'https://www.slack.com',
+		//		},
+		//	],
+		//},
 	],
 
 	// Second Links Container
