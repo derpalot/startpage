@@ -143,7 +143,7 @@ const CONFIG = {
 					link: 'https://www.netflix.com',
 				},
 				{
-					name: 'Facebook`',
+					name: 'Facebook',
 					link: 'https://www.facebook.com',
 				},
 				{
