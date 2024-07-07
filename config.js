@@ -143,16 +143,16 @@ const CONFIG = {
 					link: 'https://www.netflix.com',
 				},
 				{
-					name: 'Facebook',
-					link: 'https://www.facebook.com',
+					name: 'Disney',
+					link: 'https://www.disneyplus.com',
 				},
 				{
 					name: 'Linkedin',
 					link: 'https://www.linkedin.com',
 				},
 				{
-					name: 'MonkeyType',
-					link: 'https://www.monkeytype.com',
+					name: 'Leetcode',
+					link: 'https://www.leetcode.com',
 				},
 			],
 		},
