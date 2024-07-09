@@ -71,18 +71,12 @@ const CONFIG = {
 		},
 		{
 			id: '4',
-			name: 'Reddit',
-			icon: 'message-square-code',
-			link: 'https://reddit.com',
-		},
-		{
-			id: '5',
 			name: 'Youtube',
 			icon: 'youtube',
 			link: 'https://youtube.com/',
 		},
 		{
-			id: '6',
+			id: '5',
 			name: 'OzBargain',
 			icon: 'shopping-basket',
 			link: 'https://ozbargain.com.au/',
